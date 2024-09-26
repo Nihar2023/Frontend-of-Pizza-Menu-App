@@ -1,0 +1,55 @@
+.header
+{
+    width: 100%;
+    height: 50px;
+    padding: 5px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.info
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* align-items: center; */
+    margin: 0px 15rem;
+}
+.container
+{
+    width: 100%;
+    height:fit-content;
+    background-color: beige;
+}
+.pizza
+{
+    margin: 20px;
+    width: 200px;
+}
+
+.img
+{
+    width: 180px;
+    border-radius: 5px;
+}
+.footer-div
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.order-btn
+{
+    padding: 7px 15px;
+    margin: 5px;
+    font-size: medium;
+    background-color: rgb(255, 189, 46);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    
+}
